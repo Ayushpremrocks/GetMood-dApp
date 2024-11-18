@@ -50,12 +50,12 @@ The project uses the **Sepolia Testnet** for testing and deployment.
 ---
 
 ## 📂 Project Structure
-
-├── index.html       # Front-end of the dApp
-├── scripts.js       # JavaScript logic to interact with the smart contract
-├── style.css        # CSS for styling the dApp
-└── mood.sol         # Smart contract written in Solidity
-
+   ```plaintext
+   ├── index.html       # Front-end of the dApp
+   ├── scripts.js       # JavaScript logic to interact with the smart contract
+   ├── style.css        # CSS for styling the dApp
+   └── mood.sol         # Smart contract written in Solidity
+   ```
 ---
 ## 💻 How to Run the Project Locally
 
