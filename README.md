@@ -76,7 +76,7 @@ The project uses the **Sepolia Testnet** for testing and deployment.
   - Input a mood and click Set Mood to store it on the blockchain.
   - Click Get Mood to retrieve your current mood.
 ---
-🙌 Acknowledgments
+## 🙌 Acknowledgments
   - Ethereum Community for providing resources and documentation.
   - MetaMask for seamless wallet integration.
   - Ethers.js for simplifying interactions with Ethereum.
